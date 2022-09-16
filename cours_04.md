@@ -3,7 +3,7 @@
 Choisissez des emplois qui pourraient vous intéresser. 
 
 ### Emploi 1 - Identification
-Écrire 4 à 5 lignes. Parler des tâches reliées à l'emploi. Expliquer où ces personnes travaillent. Décrire les qualités requises pour pratiquer ce métier. Un point qui vous intéresse dans ce métier. Un point qui rend ce métier moins intéressant pour vous.  
+Concepteur-idéateur de jeux électroniques est un métier qui fait appel a la créativiter, il faut avoir de la patience pour ce travail car trouver une idée et la produire peut etre tres long.ce genre de travail peut etre rtrouver dans presque tout les boites de production de jeux vidéo. Ce que j'aime est de crée un jeux vidéo car j'ai beaucoup d'expérience et les jeux vidéo sont une grosse partie de mon temps libre. Je pense pas j'aurais de point négatif a dire sur ce métier.                                
 
 ### Emploi 2 - Identification
 Programmeur , ce metier est pour ceux qui amime taper sur leur ordinateur tout la journée.Ils peuvent travailler dans des hopitaux, studio de jeux video. Ils entrent des lignes de code pour faire que le jeux fonctionne.Pour acceder a ce métier vous dever avoir fait des des études en programmation.j'aime beaucoup le fait que on creé un jeux video,mais j'aime moins le fait que si on fait mal une ligne de code, tout le projet peut s'éfondrer.
