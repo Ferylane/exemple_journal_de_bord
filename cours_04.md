@@ -2,7 +2,7 @@
 ## Décrire 5 emplois du domaine du multimédia
 Choisissez des emplois qui pourraient vous intéresser. 
 
-### xtctyd
+### (Concepteur-idéateur de jeux électroniques)https://www.monemploi.com/metiers-et-professions/fiche/concepteur-ideateur-de-jeux-electroniques
 Concepteur-idéateur de jeux électroniques est un métier qui fait appel a la créativiter, il faut avoir de la patience pour ce travail car trouver une idée et la produire peut etre tres long.ce genre de travail peut etre rtrouver dans presque tout les boites de production de jeux vidéo. Ce que j'aime est de crée un jeux vidéo car j'ai beaucoup d'expérience et les jeux vidéo sont une grosse partie de mon temps libre. Je pense pas j'aurais de point négatif a dire sur ce métier.                                
 
 ### Emploi 2 - Identification
