@@ -8,7 +8,7 @@ Concepteur-idéateur de jeux électroniques, est un métier qui fait appel à la
 ### Programmeur 
 Programmeur, ce metier est pour ceux qui amime taper sur leur ordinateur tout la journée.Ils peuvent travailler dans des hopitaux, studio de jeux video. Ils entrent des lignes de code pour faire que le jeux fonctionne.Pour acceder a ce métier vous dever avoir fait des des études en programmation. J'aime beaucoup le fait que on creé un jeux video, mais j'aime moins le fait que si on fait mal une ligne de code, tout le projet peut s'éfondrer.
 
-### Desingner 
+### Designer 
 Desingner , c'est un métier qui demande beaucoup de creativité et de passion pour l'art sous n'importe quel forme ,il travail dans des studio de jeux vidéo ou bien même des studio de web. Ca m'intereste dans le sense que j'aime l'art, j'aime dessiner et imaginer des décors hors du commun. Mais, le point que j'aime moins est le fait de devoir essayer de faire quelque chose de nouveau,mais ce ``nouveau`` est sûrement deja fait.
 
 ### Charger de projet multimedia 
