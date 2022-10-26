@@ -1,15 +1,4 @@
 # Cours 7
 ## Analyse critique d'une oeuvre
 
-L’objectif de cet exercice est de développer une opinion sur une œuvre multimédia. Pour l’analyse, choisissez l’une des œuvres que nous avons visitées. 
-
-Entre 300 et 400 mots. 
-
-### Description
-Décrivez l'oeuvre. Quelles étaient les composantes de l'installation? Comment était-elle réalisée techniquement? 
-
-### Opinion
-Donnez votre opinion sur l'oeuvre que nous avons visitée. Vous a-t-elle plu? Ou pas du tout? Pourquoi? Est-ce que certains aspects vous ont plus touchés que d'autres? 
-
-### Analyse critique
-Qu'est-ce qui pourrait être modifié dans cette oeuvre? 
+"GOLIATH: PLAYING WITH REALITY" est une oeuvre de realiter virtuelle que l'on peut experimenter au Centre PHI avec d'autre experience similaire. Cette oeuvre suit l'histoire vraie d'un homme avec une éducation difficile qui perd ses parents et reçoit un diagnostic de schizophrénie, mais il trouve une connection avec les jeux video multijoueur. Il est emmené dans un hôpital psychiatrique où il passe plusieurs années sur des médicaments puissants, la plupart du temps en isolement.Explorer les limite de la realiter virtuel Ce jeux contien plusieur chapitre qui decris plusieur etape de l'affreuse aventure du jeune homme.Combinant un dialogue sincère, des visuels fascinants et des interactions symboliques, nous parcourons plusieurs mondes pour découvrir l'histoire poignante de Goliath. Gagnant du Grand Prix du Jury pour la meilleure œuvre VR au 78e Festival international du film de Venise et nominé pour un Emmy Award dans la catégorie Innovation exceptionnelle dans les médias interactifs,cette oeuvre a ete cree par le studio Anagram qui ont aussi gagner des prix pour des experience precedente.L'instalation etait composer d'un casque de realiter virtuel,le oculus quest 2 par le compagnie meta qui precedamant etait facebook,ce casque etaits relier a un ordinateur par un fil qui etait soutenu au plafond.puis, les deux mannete pour pouvoir interagire avec cetains element.Avec des ecouteur connecter au casque de realiter virtel pour mieux ressentir les emotions.
